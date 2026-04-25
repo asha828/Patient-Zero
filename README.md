@@ -1,8 +1,5 @@
 # 🧬 Patient Zero
 
-![Status](https://img.shields.io/badge/status-completed-green)
-![Made With](https://img.shields.io/badge/made%20with-React%20%7C%20TypeScript%20%7C%20Node.js-blue)
-![Focus](https://img.shields.io/badge/focus-social%20impact%20game-orange)
 
 **A choice-based life simulation game about surviving illness, financial instability, and student life in America.**
 
