@@ -79,17 +79,11 @@ Inspired by ongoing discussions around healthcare policy (including the Affordab
 
 ## 📸 Screenshots
 
-### Main Gameplay Screen
+### Intro Screen
 ![Gameplay](day0.png)
 
-### Choice Sreens
+### Choice Screens
 ![Choice](busstop.png)
-
-### Health & Money Tracking UI
-![Stats](./screenshots/stats.png)
-
-### Ending Screen
-![Ending](./screenshots/ending.png)
 
 ---
 
