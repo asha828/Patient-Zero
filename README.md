@@ -80,7 +80,7 @@ Inspired by ongoing discussions around healthcare policy (including the Affordab
 ## 📸 Screenshots
 
 ### Main Gameplay Screen
-![Gameplay](./screenshots/gameplay.png)
+[![Gameplay](./screenshots/gameplay.png)](https://github.com/asha828/Patient-Zero/blob/main/opening.png)
 
 ### Decision Interface
 ![Choices](./screenshots/choices.png)
