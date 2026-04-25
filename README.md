@@ -80,10 +80,10 @@ Inspired by ongoing discussions around healthcare policy (including the Affordab
 ## 📸 Screenshots
 
 ### Main Gameplay Screen
-[![Gameplay](day0.png)
+![Gameplay](day0.png)
 
-### Decision Interface
-![Choices](./screenshots/choices.png)
+### Choice Sreens
+![Choice](busstop.png)
 
 ### Health & Money Tracking UI
 ![Stats](./screenshots/stats.png)
